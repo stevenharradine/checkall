@@ -11,7 +11,7 @@ aws ec2 describe-instances > region.json
 ```
 ### 2. generate shell script
 ```
-node check-all.js > region.sh
+node check-all.js region > region.sh
 ```
 ### 3. run the script
 ```
