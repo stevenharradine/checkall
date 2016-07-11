@@ -3,6 +3,7 @@ Runs commands against every box within aws
 
 ## Dependancies
  * aws cli
+ * nodejs
 
 ## Usage
 ### 1. generate dump of the region
